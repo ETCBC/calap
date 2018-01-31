@@ -1,5 +1,9 @@
 Feature overview CALAP
 ======================
+Here is the list of features.
+There is no official documentation of what the features mean.
+One can use Text-Fabric to explore the features: for what types of objects they have been assigned,
+what the possible values are and their distribution.
 
 analyzed_form
 =============
